@@ -1,0 +1,25 @@
+#topnav {
+    padding: 0;
+    text-decoration: black;
+}
+.hero-text {
+    background-color: rgb(61, 152, 94);
+    margin-top: 100px;
+    margin-left: 300px;
+    padding: 20px;
+    
+}
+#heroimg {
+   display: flex;
+}
+
+.content-area{
+  padding-left: 10px;
+  
+}
+footer {
+    margin-top: 150px;
+    padding-top: 70px;
+    
+    
+}
